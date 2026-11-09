@@ -1,0 +1,15 @@
+{
+  "name": "hometendr",
+  "description": "HomeTendr for Claude: your home's tasks, items and upkeep, plus maintenance skills.",
+  "owner": {
+    "name": "HomeTendr",
+    "url": "https://hometendr.com"
+  },
+  "plugins": [
+    {
+      "name": "home-tendr",
+      "source": "./plugins/home-tendr",
+      "description": "HomeTendr: home tasks, items and upkeep."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "HomeTendr": {
+      "type": "http",
+      "url": "https://mcp.hometendr.com"
+    }
+  }
+}
