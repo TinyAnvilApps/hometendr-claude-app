@@ -1,7 +1,7 @@
 {
   "name": "home-tendr",
   "displayName": "HomeTendr",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "Your HomeTendr home in Claude: see what needs doing today and tick tasks off, look up items and warranties, check the house's health, plan the week, get an autumn or spring maintenance plan, register an appliance from a receipt or type plate, and put together a handover when you sell — with the same permissions as in the app.",
   "author": {
     "name": "HomeTendr",
